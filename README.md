@@ -1,13 +1,9 @@
-ИДЕЯ ДЛЯ ПРОЕКТА
-------------
-Создать приложение Twitter 
-
-
 Ссылки
 -----------
 
-•	Trello
-•	Miro
+•	<a href="https://trello.com/b/emOGW53N/таски">Trello</a>
+
+•	<a href="https://miro.com/app/board/o9J_lPyD0Xw=/">Miro</a>
 
 Команда
 -----------
