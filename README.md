@@ -7,7 +7,7 @@
 
 •	<a href="https://github.com/votizlov/Flitter/blob/main/Kursach.pdf">Курсовая</a>
 
-•	<a href="https://github.com/votizlov/Flitter/blob/main/Kursach.pdf">ТЗ</a>
+•	<a href="https://github.com/votizlov/Flitter/blob/main/TZ.pdf">ТЗ</a>
 
 
 Команда
