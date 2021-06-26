@@ -11,6 +11,8 @@
 
 •	<a href="https://app.swaggerhub.com/apis/VSU-team/FlitterAPI/1.0.0">Swagger</a>
 
+•	<a href="https://youtu.be/ZAkUPoWgrtc">Видео-презентация</a>
+
 
 Команда
 -----------
